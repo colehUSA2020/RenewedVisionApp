@@ -1,0 +1,9 @@
+c:\users\cole\documents\visual studio 2013\Projects\RenewedVisionProject\RenewedVisionProject\bin\Debug\RenewedVisionProject.exe.config
+c:\users\cole\documents\visual studio 2013\Projects\RenewedVisionProject\RenewedVisionProject\bin\Debug\RenewedVisionProject.exe
+c:\users\cole\documents\visual studio 2013\Projects\RenewedVisionProject\RenewedVisionProject\bin\Debug\RenewedVisionProject.pdb
+c:\users\cole\documents\visual studio 2013\Projects\RenewedVisionProject\RenewedVisionProject\obj\Debug\RenewedVisionProject.Form1.resources
+c:\users\cole\documents\visual studio 2013\Projects\RenewedVisionProject\RenewedVisionProject\obj\Debug\RenewedVisionProject.Properties.Resources.resources
+c:\users\cole\documents\visual studio 2013\Projects\RenewedVisionProject\RenewedVisionProject\obj\Debug\RenewedVisionProject.csproj.GenerateResource.Cache
+c:\users\cole\documents\visual studio 2013\Projects\RenewedVisionProject\RenewedVisionProject\obj\Debug\RenewedVisionProject.exe
+c:\users\cole\documents\visual studio 2013\Projects\RenewedVisionProject\RenewedVisionProject\obj\Debug\RenewedVisionProject.pdb
+c:\users\cole\documents\visual studio 2013\Projects\RenewedVisionProject\RenewedVisionProject\obj\Debug\RenewedVisionProject.csprojResolveAssemblyReference.cache
